@@ -14,7 +14,7 @@ function Folder({ handelInsertNode, explorer }) {
     setShowInput({
       visible: true,
       isFolder
-    });
+    });      
   };
 
   const onAddFolder = (event) => {
